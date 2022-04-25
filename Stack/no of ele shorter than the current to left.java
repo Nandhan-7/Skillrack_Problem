@@ -2,8 +2,9 @@ There are N wind mills in a straight line from left to right. The height of all 
 the program must print the number of wind-mills which are shorter than the current wind-mill present to the left of M.
 
 Example Input/Output 1:
-Input: 6 100 200 105 110 120 250  
-Output: 0 1 2 0 1 2 5
+Input: 6 
+       100 200 105 110 120 250  
+Output: 0 1 0 1 2 5
 
 Explanation: 
 1st wind-mill height is 100 and there are no wind-mills to the left. Hence 0 is printed.

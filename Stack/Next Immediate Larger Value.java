@@ -4,7 +4,8 @@ If there is no such immediate larger integer,then the current integer value itse
 Example 
 Input/Output 1:
 Input:
-7 10 45 20 40 60 50 100
+7
+10 45 20 40 60 50 100
 Output:
 45 60 40 60 100 100 100  
 Explanation:
